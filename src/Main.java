@@ -124,7 +124,7 @@ public class Main {
         int newSalaryKristinaMounth = salaryKristinaMounth + ((salaryKristinaMounth * 10)/100);
         int newSalaryKristinaYear = newSalaryKristinaMounth * 12;
         int diferebceSalaryKristina = newSalaryKristinaYear - salaryKristinaYear;
-        System.out.println("Кристина теперь получает " + newSalaryKristinaMounth + " рублей в месяц. Годовой доход вырос на " + diferebceSalaryKristina + " рублей");
+        System.out.println("Кристина теперь получает " + newSalaryKristinaMounth + " рублей в месяц.Годовой доход вырос на " + diferebceSalaryKristina + " рублей");
 
 
 
